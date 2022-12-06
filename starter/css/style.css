@@ -20,6 +20,10 @@ ul {
   list-style: none;
 }
 
+.hero-banner {
+  display: flex;
+}
+
 /*Header - Navbar */ 
 .main-header {
   position: fixed;
